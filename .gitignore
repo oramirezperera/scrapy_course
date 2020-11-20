@@ -1,2 +1,4 @@
 *.pdf
 tutorial/
+!tutorial/tutorial/spiders/quotes_spider.py
+!turorial/tutorial/results.html
