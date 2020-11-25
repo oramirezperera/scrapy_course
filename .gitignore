@@ -139,3 +139,16 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Specific files I don't want to add
+quotes_scraper/quotes_scraper/quotes_scraper/spiders/__init__.py
+quotes_scraper/quotes_scraper/quotes_scraper/__init__.py
+quotes_scraper/quotes_scraper/quotes_scraper/items.py
+quotes_scraper/quotes_scraper/quotes_scraper/middlewares.py
+quotes_scraper/quotes_scraper/quotes_scraper/pipelines.py
+quotes_scraper/quotes_scraper/quotes_scraper/settings.py
+quotes_scraper/quotes_scraper/scrapy.cfg
+middlewares.py
+settings.py
+scrapy.cfg
+pupelines.py
